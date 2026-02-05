@@ -1,0 +1,4 @@
+The cat sleeps.
+This sentence is quite long and descriptive.
+Hello world!
+Programming is fun, sometimes challenging.
